@@ -1,0 +1,11 @@
+{"coord": {"lon": -151.4448, "lat": -16.7289
+    }, "weather": [
+        {"id": 500, "main": "Rain", "description": "light rain", "icon": "10d"
+        }
+    ], "base": "stations", "main": {"temp": 299.87, "feels_like": 301.34, "temp_min": 299.87, "temp_max": 299.87, "pressure": 1017, "humidity": 67, "sea_level": 1017, "grnd_level": 1016
+    }, "visibility": 10000, "wind": {"speed": 6.41, "deg": 102, "gust": 6.36
+    }, "rain": {"1h": 0.11
+    }, "clouds": {"all": 74
+    }, "dt": 1686424971, "sys": {"country": "PF", "sunrise": 1686414653, "sunset": 1686454787
+    }, "timezone": -36000, "id": 4033205, "name": "Uturoa", "cod": 200
+}
