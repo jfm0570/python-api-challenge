@@ -8,3 +8,6 @@ print(response)
 Links used: 
 https://www.w3schools.com/python/matplotlib_grid.asp
 https://stackoverflow.com/questions/29934083/linear-regression-on-pandas-dataframe-using-sklearn-indexerror-tuple-index-ou
+https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
+https://www.statology.org/pandas-create-dataframe-from-existing-dataframe/
+https://stackoverflow.com/questions/16327055/how-to-add-an-empty-column-to-a-dataframe
